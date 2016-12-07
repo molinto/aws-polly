@@ -1,0 +1,26 @@
+{
+  "name": "aws-polly",
+  "version": "0.0.1",
+  "description": "Helper for AWS polly - converts text into lifelike speech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molinto/aws-polly.git"
+  },
+  "keywords": [
+    "aws",
+    "polly",
+    "amazon",
+    "speech",
+    "lambda"
+  ],
+  "author": "Sharry Stowell <sharry@molinto.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/molinto/aws-polly/issues"
+  },
+  "homepage": "https://github.com/molinto/aws-polly#readme"
+}
