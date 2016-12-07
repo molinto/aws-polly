@@ -1,6 +1,6 @@
 {
   "name": "aws-polly",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Helper for AWS polly - converts text into lifelike speech",
   "main": "index.js",
   "scripts": {
